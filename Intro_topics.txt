@@ -1,0 +1,6 @@
+List of topics for introduction (In brackets please put your name down if you would be willing to provide the introduction, (for example I, Darsh, will be happy to do an intro to Mathematica)
+
+1) Intro to terminal
+2) Intro to emacs
+3) Intro to Mathematica - (Darsh)
+4) Intro to Git
