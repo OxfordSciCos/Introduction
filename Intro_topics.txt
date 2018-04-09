@@ -4,3 +4,8 @@ List of topics for introduction (In brackets please put your name down if you wo
 2) Intro to emacs
 3) Intro to Mathematica - (Darsh)
 4) Intro to Git
+5) Intro to MCMC 
+6) Machine learning basis 
+7) databases, pandas
+8) GRtensor in Mathematica
+9) Cosmsosis (MCMC sampling)
